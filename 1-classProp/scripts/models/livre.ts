@@ -22,7 +22,7 @@ export class Livre{
     }
 
     // Méthodes => Comportements logique a notre class (la rendre plus dynamique et fonctionnel pour la logique métier)
-    afficherLivre() : void {
+    AfficherLivre() : void {
         console.log(`Descrition : \n - ${this._Titre} \n - ${this.Auteur} \n - ${this._AnneePublication}`);
     }
 }

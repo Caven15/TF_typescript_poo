@@ -13,4 +13,4 @@ console.log(livre1.AnneePublication);     // Lecture autorisée
 // livre1.AnneePublication = 1994         // De par mes props l'éctriture est interdite...
 
 
-livre1.afficherLivre()
+livre1.AfficherLivre()
